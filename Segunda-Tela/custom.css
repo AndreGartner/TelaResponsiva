@@ -1,0 +1,32 @@
+
+.text-menu{
+	color: #ffffff;
+	font-size: 28px;
+}
+
+.navbar-toggler{
+
+	min-height: 50px;
+	min-width: 50px;
+}
+
+.navbar-main h2{
+	min-height: 150px;
+	text-align: center;
+}
+
+.bg-primary{
+	background: #87CEEB!important;
+}
+
+.navbar-toggler-icon{
+	color: #fff;
+}
+
+
+
+
+
+
+
+
