@@ -19,9 +19,38 @@
 	background: #87CEEB!important;
 }
 
-.navbar-toggler-icon{
-	color: #fff;
+.card-body{
+	background: #f2f2f2;
+	height: 90px;
+	display: inline-block;
+	margin: 0px;
 }
+
+.hexagon-icon{
+	-webkit-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
+	width: 48px;
+	float:left;
+	padding-left: 0px;
+
+}
+
+.info-icon{
+	float: right;
+
+}
+
+.star-icon{
+	width: 48px;
+	height: 48px;
+	float: left;
+}
+
+
+
+
+
 
 
 
